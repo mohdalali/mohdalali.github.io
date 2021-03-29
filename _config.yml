@@ -1,1 +1,7 @@
 remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+style: dark
+listen_for_clients_preferred_style: true
+footer: '© 2021 <a href="mailto:me@mohd.io">Mohamed Al Ali</a>. All rights reserved.'
+google_analytics: G-R3ZY09XY1M
